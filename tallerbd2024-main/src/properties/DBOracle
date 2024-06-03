@@ -1,0 +1,5 @@
+host 172.17.0.2
+port 1521
+service ORCLPDB1
+user sys
+password 1234567890
